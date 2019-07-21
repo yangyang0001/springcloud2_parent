@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springcloud2_api_service/springcloud2_api_member_service/springcloud2_api_member_service.iml" filepath="$PROJECT_DIR$/springcloud2_api_service/springcloud2_api_member_service/springcloud2_api_member_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2_api_member_service_impl/springcloud2_api_member_service_impl.iml" filepath="$PROJECT_DIR$/springcloud2_api_member_service_impl/springcloud2_api_member_service_impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2_api_service/springcloud2_api_order_service/springcloud2_api_order_service.iml" filepath="$PROJECT_DIR$/springcloud2_api_service/springcloud2_api_order_service/springcloud2_api_order_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2_api_order_service_impl/springcloud2_api_order_service_impl.iml" filepath="$PROJECT_DIR$/springcloud2_api_order_service_impl/springcloud2_api_order_service_impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2_api_service/springcloud2_api_service.iml" filepath="$PROJECT_DIR$/springcloud2_api_service/springcloud2_api_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2_eureka_server/springcloud2_eureka_server.iml" filepath="$PROJECT_DIR$/springcloud2_eureka_server/springcloud2_eureka_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2_parent.iml" filepath="$PROJECT_DIR$/springcloud2_parent.iml" />
+    </modules>
+  </component>
+</project>
