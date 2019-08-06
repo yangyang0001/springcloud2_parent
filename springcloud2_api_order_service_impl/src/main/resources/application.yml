@@ -32,3 +32,9 @@ feign:
   ##开启hystrix 断路器
   hystrix:
     enabled: true
+    command:
+      default:
+        execution:
+          isolation:
+            thread:
+              timeoutInMilliseconds: 6000 # 设置hystrix的超时时间为6000ms
